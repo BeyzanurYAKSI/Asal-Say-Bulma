@@ -1,0 +1,11 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\bin\Debug\Asal Sayı Bulma.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\bin\Debug\Asal Sayı Bulma.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\bin\Debug\Asal Sayı Bulma.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal Sayı Bulma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal Sayı Bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal_Sayı_Bulma.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal_Sayı_Bulma.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal Sayı Bulma.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal Sayı Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal Sayı Bulma.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\VisualS\Asal Sayı Bulma\Asal Sayı Bulma\obj\Debug\Asal Sayı Bulma.pdb
